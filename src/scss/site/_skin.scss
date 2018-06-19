@@ -1,0 +1,78 @@
+// Skin content
+
+.carousel img {
+    height: 500px;
+}
+
+#micrositio {
+    background: #FFFFF0;
+    padding: 1em;
+}
+
+#micrositio a {
+    color: #AA5B0A;
+}
+
+#vid {
+    width: 70%;
+    background: #7B6D42;
+    color: #FAFAD2;
+}
+
+#recips {
+    width: 70%;
+    background: #AA5B0A;
+    color: #FAFAD2;
+}
+
+#interv {
+    width: 70%;
+    background: #113E20;
+    color: #FAFAD2;
+}
+
+#favoritos {
+    background: #002428;
+    padding: 1em;
+    
+}
+
+
+
+#favoritos h2 span {
+    margin-top: 4em;
+    display: block;
+    transform: rotate(-90deg);
+    color: #FAFAD2;
+}
+
+#weekBeer {
+    padding-top: 5em;
+    padding-bottom: 5em;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    background: linear-gradient(to bottom, rgba(255,240,245,1) 50%,rgba(255,255,255,1) 50%);
+
+
+}
+
+#weekBeer div {
+    padding: 0;
+    
+}
+
+#weekBeer img {
+    float: right;
+    height: 100%;
+}
+
+#weekBeer .card {
+    width: 70%;
+}
+
+#regCnt {
+    position: absolute;
+    top: 61%;
+    transform: translateY(-50%);
+}
