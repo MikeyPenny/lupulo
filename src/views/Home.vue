@@ -32,7 +32,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-link">Leer más</a>
+                            <a href="#/videos" class="btn btn-link">Leer más</a>
                         </div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-link">Leer más</a>
+                            <a href="#/recipes" class="btn btn-link">Leer más</a>
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-link">Leer más</a>
+                            <a href="#/interviews" class="btn btn-link">Leer más</a>
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <a href="#/favorites" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <a href="#/favorites" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 </div>
@@ -99,14 +99,14 @@
                         <div class="card-body">
                             <h5 class="card-title ">Cerveza de la semana</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-light">Leer más</a>
+                            <a href="#/beerweek" class="btn btn-light">Leer más</a>
                         </div>
                     </div>
                     <div id="regCnt" class="card border-light">    
                         <div class="card-body">
                             <h5 class="card-title">Cuenta regresiva</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-light">Leer más</a>
+                            <a href="#/regresive" class="btn btn-light">Leer más</a>
                         </div>
                     </div>
                 </div>
@@ -115,7 +115,6 @@
                 <div>
                     <h2>Instagram</h2>
                 </div>
-                
             </div>            
         </section>
     </default-layout>
