@@ -115,8 +115,12 @@
                 <div>
                     <h2 class="insta">Instagram</h2>
                 </div>
-                
-            </div>            
+            </div>    
+            <div class="row">
+                <div class="insta">
+                   
+                </div>
+            </div>        
         </section>
     </default-layout>
 </template>
@@ -125,12 +129,15 @@
 
 <script>
 import DefaultLayout from '@/layouts/DefaultLayout'
+import Vue from 'vue'
 
 export default {
     name: 'HomeView',
+
     components: {
-        DefaultLayout
-    }    
+        DefaultLayout,
+        
+    }
 }
 </script>
 

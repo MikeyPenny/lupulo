@@ -20,7 +20,6 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-2"></div>
                     <div class="col-sm-8">
                          <div class="form-group">
                             <label for="title">Título:</label>
@@ -28,7 +27,7 @@
                             
                         </div>
                     </div>
-                    <div class="col-sm-2"></div>
+                    <div class="col-sm-4"></div>
                 </div>
                
                 <div class="form-group">
