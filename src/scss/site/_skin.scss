@@ -1,5 +1,13 @@
 // Skin content
 
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+* {
+    font-family: "Knile-Regular";
+}
+
 .carousel img {
     height: 100%;
 }
@@ -40,7 +48,7 @@
 .twocolordiv {
   position: relative;
   z-index: 9;
-  background: green;
+  background: rgb(0, 36, 40);
 }
 
 .twocolordiv:before {
@@ -51,7 +59,7 @@
   right: 50%;
   bottom: 0;
   left: 0;
-  background: green;
+  background: rgb(17, 62, 32);
 }
 
 #favoritos h2 span {
@@ -96,13 +104,14 @@
 }
 
 .insta {
-    margin-left: 1.5rem;
+    margin-left: 2.5rem;
 
 }
 
 // Formulario de Contacto
 
 .form{
+    margin-top: 2rem;
     margin-right: 5rem;
     margin-left: 5rem;
     margin-bottom: 6rem;
