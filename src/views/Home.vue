@@ -3,14 +3,14 @@
         <section slot="content">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <img class="d-block w-100" src="../imgs/Carrusel.jpg" alt="First slide">
+                    <div class="carousel-item active center">
+                        <img class="d-block w-100" src="../imgs/Carrusel1.jpg" alt="First slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="../imgs/realMadridLiverpoolCarrusel.jpg" alt="Second slide">
+                        <img class="d-block w-100" src="../imgs/Carrusel3.jpg" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="../imgs/fotoCarrusel.jpg" alt="Third slide">
+                        <img class="d-block w-100" src="../imgs/Carrusel2b.jpg" alt="Third slide">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -28,7 +28,7 @@
                         <div id="vid" class="card-header">
                             Videos
                         </div>
-                        <img src="../imgs/card.svg" alt="videos" class="card-img-top">
+                        <img src="../imgs/videos.png" alt="videos" class="card-img-top">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -41,7 +41,7 @@
                         <div id="recips" class="card-header">
                             Recetas
                         </div>
-                        <img src="../imgs/card.svg" alt="videos" class="card-img-top">
+                        <img src="../imgs/recetas.png" alt="videos" class="card-img-top">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -54,7 +54,7 @@
                         <div id="interv" class="card-header">
                             Entrevistas
                         </div>
-                        <img src="../imgs/card.svg" alt="videos" class="card-img-top">
+                        <img src="../imgs/entrevistas.png" alt="videos" class="card-img-top">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -63,14 +63,14 @@
                     </div>
                 </div>
             </div>
-            <div id="favoritos" class="row">
+            <div id="favoritos" class="row twocolordiv">
                 
                 <h2>
                     <span>Favoritos</span>
                 </h2>
                 <div class="col-lg-4">
                     <div class="card">    
-                        <img src="../imgs/card.svg" alt="videos" class="card-img-top">
+                        <img src="../imgs/fav1.jpeg" alt="videos" class="card-img-top">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -81,7 +81,7 @@
                 
                 <div class="col-lg-4">
                     <div class="card">    
-                        <img src="../imgs/card.svg" alt="videos" class="card-img-top">
+                        <img src="../imgs/fav2.jpg" alt="videos" class="card-img-top">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -113,7 +113,7 @@
             </div>
             <div class="row">
                 <div>
-                    <h2>Instagram</h2>
+                    <h2 class="insta">Instagram</h2>
                 </div>
             </div>            
         </section>
