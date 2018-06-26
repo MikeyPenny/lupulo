@@ -11,6 +11,9 @@ import InterViews from '@/views/InterViews'
 import FavoritesView from '@/views/Favorites'
 import BeerOfTheWeek from '@/views/Weekbeer'
 import RegresiveCount from '@/views/Regresive'
+import ActualView from '@/views/Actual'
+import CitiesView from '@/views/Cities'
+import TastingView from '@/views/Tasting'
 
 Vue.use(Router)
 
@@ -55,6 +58,21 @@ export default new Router({
       path: '/regresive',
       name: 'RegresiveCount',
       component: RegresiveCount
+    },
+    {
+      path: '/actual',
+      name: 'ActualView',
+      component: ActualView
+    },
+    {
+      path: '/cities',
+      name: 'CitiesView',
+      component: CitiesView
+    },
+    {
+      path: '/tasting',
+      name: 'TastingView',
+      component: TastingView
     }
   ]
 })
