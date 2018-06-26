@@ -65,9 +65,11 @@
             </div>
             <div id="favoritos" class="row twocolordiv">
                 
-                <h2>
-                    <span>Favoritos</span>
-                </h2>
+                <div class="col-lg-4">
+                    <h2>
+                        <span>Favoritos</span>
+                    </h2>
+                </div>
                 <div class="col-lg-4">
                     <div class="card">    
                         <img src="../imgs/fav1.jpeg" alt="videos" class="card-img-top">
